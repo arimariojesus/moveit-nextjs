@@ -41,7 +41,6 @@ body, input, textarea, button {
 
 button {
   cursor: pointer;
-  outline: none;
 }
 
 a {
